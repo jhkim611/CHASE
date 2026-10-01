@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Datasets-yellow" /></a>
 </p>
 
-The official source code for "[Chasing Label Shifters: A Change-Aware Framework for Dynamic Graph Node Classification](<PAPER_URL>)", accepted to NeurIPS 2026.
+The official source code for "[Chasing Label Shifters: A Change-Aware Framework for Dynamic Graph Node Classification](<PAPER_URL>)", accepted at NeurIPS 2026.
 
 ## Overview
 
